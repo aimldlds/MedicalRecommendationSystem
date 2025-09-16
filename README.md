@@ -1,2 +1,5 @@
-# MedicalRecommendationSystem
+# Medical Recommendation System 
+
+This project is likely a Medical Recommendation System designed to assist users in obtaining health-related advice or recommendations based on user input such as symptoms, health conditions, or medical data. Typically, such systems use machine learning or rule-based algorithms to analyze input and deliver personalized suggestions, possible diagnoses, or treatment pathways. The web application interface allows users to interact with the model in real time, providing quick, accessible health recommendations. Deployment on Heroku demonstrates experience in end-to-end web app development, model integration, and cloud deployment.
+
 Demo: https://medical-recommendation-system-9a587a92cb7c.herokuapp.com/
